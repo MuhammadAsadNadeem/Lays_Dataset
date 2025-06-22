@@ -1,8 +1,8 @@
 
-Lays - v2 2025-06-22 7:58am
+Lays - v4 2025-06-22 2:57pm
 ==============================
 
-This dataset was exported via roboflow.com on June 22, 2025 at 2:59 PM GMT
+This dataset was exported via roboflow.com on June 22, 2025 at 10:01 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 6190 images.
+The dataset includes 6280 images.
 Flavors are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
@@ -28,7 +28,7 @@ The following pre-processing was applied to each image:
 The following augmentation was applied to create 3 versions of each source image:
 * 50% probability of horizontal flip
 * Equal probability of one of the following 90-degree rotations: none, clockwise, counter-clockwise, upside-down
-* Randomly crop between 0 and 25 percent of the image
+* Randomly crop between 2 and 27 percent of the image
 * Random rotation of between -15 and +15 degrees
 * Random shear of between -10° to +10° horizontally and -10° to +10° vertically
 * Random brigthness adjustment of between -15 and +15 percent

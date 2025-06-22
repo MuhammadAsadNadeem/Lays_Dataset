@@ -8,6 +8,6 @@ names: ['FRENCH_CHEESE', 'MASALA', 'PAPRIKA', 'SALTED', 'YOGURT_HERB']
 roboflow:
   workspace: induslytics
   project: lays-13l8o
-  version: 2
+  version: 4
   license: CC BY 4.0
-  url: https://universe.roboflow.com/induslytics/lays-13l8o/dataset/2
+  url: https://universe.roboflow.com/induslytics/lays-13l8o/dataset/4
